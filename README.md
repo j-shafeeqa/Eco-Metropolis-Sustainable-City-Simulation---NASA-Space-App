@@ -43,6 +43,7 @@ Develop strategies to make cities more resilient to natural disasters, analyzing
 <center>
 <img width="530" alt="choose your role 1" src="https://github.com/user-attachments/assets/01a96e15-3835-47d7-b7c6-27dd8eb510ff"> <img width="530" alt="choose your role 2" src="https://github.com/user-attachments/assets/3940e659-132b-4d04-9a6e-f9d0ddb9d2d2">
 </center>
+
 # Choose Your Level
 Users can select from three engaging levels within the game, each designed for different age groups and learning experiences:
 
