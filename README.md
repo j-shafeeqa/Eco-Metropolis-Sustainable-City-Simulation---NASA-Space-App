@@ -1,21 +1,20 @@
-# Eco-Metropolis-Sustainable-City-Simulation---NASA-Space-App
+### Eco-Metropolis-Sustainable-City-Simulation---NASA-Space-App
 
 Repository Overview:
 Welcome to the Eco-Metropolis project, created for the NASA Space Apps Hackathon. This project aims to engage students in sustainability challenges through an interactive, game-based learning experience.
 
-**Project Goals:**
+## Project Goals:
 
 Educate students on sustainable urban planning using real-world data.
 Utilize NASA datasets to simulate environmental impacts and foster hands-on learning.
 Inspire future leaders to design inclusive, resilient, and sustainable cities.
-Key Features:
 
-**Game Structure:**
+## Game Structure:
 Three progressive levels tailored for different age groups (12-18).
 Data Integration: Incorporates NASA Earthdata and local datasets for realistic simulations.
 Hands-On Activities: Encourages practical problem-solving and critical thinking.
 
-**Welcome Page:**
+# Welcome Page:
 Users are greeted on the opening page, designed to immerse them in the Eco-Metropolis experience. 
 <div style="text-align: center;">
 
@@ -23,7 +22,7 @@ Users are greeted on the opening page, designed to immerse them in the Eco-Metro
 
 </div>
 
-**Choose your Job Role:**
+## Choose your Job Role:**
 
 Upon entering the game, users have the opportunity to select from a variety of job roles that will shape their experience and responsibilities within Eco-Metropolis. Each role presents unique challenges and objectives related to sustainability and urban planning. The roles are:
 
