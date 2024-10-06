@@ -16,5 +16,5 @@ Data Integration: Incorporates NASA Earthdata and local datasets for realistic s
 Hands-On Activities: Encourages practical problem-solving and critical thinking.
 
 **Welcome Page**
-
+Users are greeted on the opening page, designed to immerse them in the Eco-Metropolis experience. 
 <img width="521" alt="welcome screen" src="https://github.com/user-attachments/assets/55dd7873-4743-4f82-8eed-953076b9e58b">
