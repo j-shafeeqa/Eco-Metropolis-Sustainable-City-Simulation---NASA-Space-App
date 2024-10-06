@@ -1,4 +1,4 @@
-### Eco-Metropolis-Sustainable-City-Simulation---NASA-Space-App
+# Eco-Metropolis-Sustainable-City-Simulation---NASA-Space-App
 
 Repository Overview:
 Welcome to the Eco-Metropolis project, created for the NASA Space Apps Hackathon. This project aims to engage students in sustainability challenges through an interactive, game-based learning experience.
@@ -14,7 +14,7 @@ Three progressive levels tailored for different age groups (12-18).
 Data Integration: Incorporates NASA Earthdata and local datasets for realistic simulations.
 Hands-On Activities: Encourages practical problem-solving and critical thinking.
 
-# Welcome Page:
+## Welcome Page:
 Users are greeted on the opening page, designed to immerse them in the Eco-Metropolis experience. 
 <div style="text-align: center;">
 
@@ -45,7 +45,7 @@ Develop strategies to make cities more resilient to natural disasters, analyzing
 <img width="530" alt="choose your role 1" src="https://github.com/user-attachments/assets/01a96e15-3835-47d7-b7c6-27dd8eb510ff"> <img width="530" alt="choose your role 2" src="https://github.com/user-attachments/assets/3940e659-132b-4d04-9a6e-f9d0ddb9d2d2">
 </center>
 
-**Choose Your Level**
+## Choose Your Level
 Users can select from three engaging levels within the game, each designed for different age groups and learning experiences:
 
 **Level 1 - Urban Odyssey (Ages 12-14):**
@@ -59,10 +59,10 @@ This advanced level focuses on data-driven decision-making, allowing players to 
 
 <img width="530" alt="level " src="https://github.com/user-attachments/assets/89eb0ff7-300c-4000-8f3d-1dd5ca22c666">
 
-**Choose Your Quest**
+## Choose Your Quest
 Users can select from three exicting quests within the game to encourage critical thinking and problem-solving as players navigate real-world scenarios related to urban planning and environmental resilience.
 
-**Level 1 - Urban Odyssey Quests**
+# Level 1 - Urban Odyssey Quests 
 Each level consists of three quests that challenge players to apply their knowledge of sustainability. Below are the quests for Level 1 (Urban Odessey):
 
 **Identifying Vulnerable Areas to Waterlogging:**
@@ -77,7 +77,7 @@ Create a detailed emergency evacuation strategy for urban areas that are prone t
 <img width="568" alt="level 2 quests" src="https://github.com/user-attachments/assets/652f9375-eab0-4b5f-8c2d-a590aa646032">
 
 
-**Level 2 - Resilience Rising Quests**
+# Level 2 - Resilience Rising Quests
 Below are the quests for Level 2 (Resilience Rising):
 
 **Quest I: Urban Planning:**
@@ -91,7 +91,7 @@ Assess the resilience of urban areas in the face of climate change by analyzing 
 
 <img width="530" alt="level 1 quests" src="https://github.com/user-attachments/assets/288d6864-668e-4799-bbb5-14556706c6bf">
 
-**Level 3 - Foundations of Tommorow Quests**
+# Level 3 - Foundations of Tommorow Quests
 Below are the quests for Level 3 (Foundations of Tommorow): 
 
 **Quest I: Establish Your Pisciculture Farm:**
