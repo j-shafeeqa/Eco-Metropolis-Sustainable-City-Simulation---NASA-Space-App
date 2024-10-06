@@ -44,10 +44,7 @@ Develop strategies to make cities more resilient to natural disasters, analyzing
 
 <div style="text-align: center;">
 
-<img width="521" alt="choose your role 1" src="https://github.com/user-attachments/assets/01a96e15-3835-47d7-b7c6-27dd8eb510ff">
-
-
-<img width="521" alt="choose your role 2" src="https://github.com/user-attachments/assets/3940e659-132b-4d04-9a6e-f9d0ddb9d2d2">
+<img width="521" alt="choose your role 1" src="https://github.com/user-attachments/assets/01a96e15-3835-47d7-b7c6-27dd8eb510ff"> <img width="521" alt="choose your role 2" src="https://github.com/user-attachments/assets/3940e659-132b-4d04-9a6e-f9d0ddb9d2d2">
 
 </div>
 
