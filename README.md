@@ -17,8 +17,11 @@ Hands-On Activities: Encourages practical problem-solving and critical thinking.
 
 **Welcome Page:**
 Users are greeted on the opening page, designed to immerse them in the Eco-Metropolis experience. 
+<div style="text-align: center;">
 
 <img width="521" alt="welcome screen" src="https://github.com/user-attachments/assets/55dd7873-4743-4f82-8eed-953076b9e58b">
+
+</div>
 
 **Choose your Job Role:**
 
@@ -39,11 +42,12 @@ Optimize and reduce energy consumption in buildings and infrastructure, promotin
 **Disaster Manager**:
 Develop strategies to make cities more resilient to natural disasters, analyzing risks and creating emergency response plans to protect communities.
 
+<div style="text-align: center;">
 
 <img width="521" alt="choose your role 1" src="https://github.com/user-attachments/assets/01a96e15-3835-47d7-b7c6-27dd8eb510ff">
 
 
 <img width="521" alt="choose your role 2" src="https://github.com/user-attachments/assets/3940e659-132b-4d04-9a6e-f9d0ddb9d2d2">
 
-
+</div>
 
