@@ -1,7 +1,10 @@
 # Eco-Metropolis-Sustainable-City-Simulation---NASA-Space-App
 
-**Repository Overview:**
-Welcome to the Eco-Metropolis project, created for the NASA Space Apps Challenge Hackathon. This project aims to engage students in sustainability challenges through an interactive, game-based learning experience.
+# Repository Overview
+
+Welcome to the **Eco-Metropolis** project, created for the NASA Space Apps Challenge Hackathon. This project secured **2nd place** in the NASA local event in Sharjah and is **nominated for the global hackathon**. You can find more details about the project and the team [here](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/innovisionaries/?tab=project).
+
+The goal of Eco-Metropolis is to engage students in sustainability challenges through an interactive, game-based learning experience.
 
 # Project Goals:
 
