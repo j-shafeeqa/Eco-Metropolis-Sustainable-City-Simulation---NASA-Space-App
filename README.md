@@ -1,13 +1,13 @@
 # Eco-Metropolis-Sustainable-City-Simulation---NASA-Space-App
 
-# 🏆 Global Winner - NASA Space Apps Challenge 2024 🏆  
+## 🏆 Global Winner - NASA Space Apps Challenge 2024 🏆  
 We are thrilled to announce that **Eco-Metropolis** has been awarded **Global Winner** in the **NASA Space Apps Challenge 2024** under the **Most Inspirational Project** category!  
 
 🌍🚀 This recognition reflects our dedication to using technology and real-world data to promote sustainability in a meaningful way.  
 
-🔗 **[Watch the Winner Announcement Video](https://youtu.be/ZImWA8Kp20Y)**  
-📽️ **[Game Presentation](https://youtu.be/FEjPrRmvWz8)**  
-🎮 **[Game Wireframes](https://www.figma.com/design/vXe3xsi1o2AGTISsvGeKsv/NASA-HACKATHON?node-id=0-1&t=8Qqzf832YbK5EAaL-1)**  
+🔗 *[Watch the Winner Announcement Video](https://youtu.be/ZImWA8Kp20Y)  
+📽️ **[Game Presentation](https://youtu.be/FEjPrRmvWz8)
+🎮 **[Game Wireframes](https://www.figma.com/design/vXe3xsi1o2AGTISsvGeKsv/NASA-HACKATHON?node-id=0-1&t=8Qqzf832YbK5EAaL-1)
 --
 # Repository Overview
 
