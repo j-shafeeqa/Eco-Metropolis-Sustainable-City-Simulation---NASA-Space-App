@@ -12,7 +12,7 @@ We are thrilled to announce that **Eco-Metropolis** has been awarded **Global Wi
 
 # Repository Overview
 
-Welcome to the **Eco-Metropolis** project, created for the NASA Space Apps Challenge Hackathon. This project secured **2nd place** in the NASA local event in Sharjah and is **nominated for the global hackathon**. You can find more details about the project and the team ([here](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/innovisionaries/]).
+Welcome to the **Eco-Metropolis** project, created for the NASA Space Apps Challenge Hackathon. This project secured **2nd place** in the NASA local event in Sharjah and is **nominated for the global hackathon**. You can find more details about the project and the team [[here](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/innovisionaries/])].
 
 The goal of Eco-Metropolis is to engage students in sustainability challenges through an interactive, game-based learning experience.
 
