@@ -1,4 +1,6 @@
 # Eco-Metropolis-Sustainable-City-Simulation---NASA-Space-App
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen)](#)
 
 ## 🏆 Global Winner - NASA Space Apps Challenge 2024 🏆  
 We are thrilled to announce that **Eco-Metropolis** has been awarded **Global Winner** in the **NASA Space Apps Challenge 2024** under the **Most Inspirational Project** category!  
